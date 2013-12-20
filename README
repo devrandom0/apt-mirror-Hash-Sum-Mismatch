@@ -1,0 +1,7 @@
+apt-mirror-Hash-Sum-Mismatch
+============================
+
+some time the clients that use your mirror, see hash sum mismatch error in apt-update.
+vim hash-sum-mismatch.sh
+chmod +x hash-sum-mismatch.sh
+./hash-sum-mismatch.sh
